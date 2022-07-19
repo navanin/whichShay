@@ -1,0 +1,21 @@
+INSERT INTO shays(shay) VALUES("Вильдан Маратович");
+INSERT INTO shays(shay) VALUES("Си ПлюсПлюсыч");
+INSERT INTO shays(shay) VALUES("Джава Скриптыч");
+INSERT INTO shays(shay) VALUES("Эконом Тарифыч");
+INSERT INTO shays(shay) VALUES("Комфорт Плюсыч");
+INSERT INTO shays(shay) VALUES("Украин Захватыч");
+INSERT INTO shays(shay) VALUES("Д-Линк Микротыч");
+INSERT INTO shays(shay) VALUES("Питон БазДанныч");
+INSERT INTO shays(shay) VALUES("Матан Вышматыч");
+INSERT INTO shays(shay) VALUES("Нуженхелп Техотделыч");
+INSERT INTO shays(shay) VALUES("Перпендикуляр Геометрич");
+INSERT INTO shays(shay) VALUES("Змей Горыныч");
+INSERT INTO shays(shay) VALUES("Коньяк Араратыч");
+INSERT INTO shays(shay) VALUES("Глутамат Нитратыч");
+INSERT INTO shays(shay) VALUES("Шмурдяк Томатыч");
+INSERT INTO shays(shay) VALUES("Старшой Солдатыч");
+INSERT INTO shays(shay) VALUES("Развед Отрядыч");
+INSERT INTO shays(shay) VALUES("Трамблер Заливыч");
+INSERT INTO shays(shay) VALUES("Кружок Квадратыч");
+INSERT INTO shays(shay) VALUES("Табак Кальяныч");
+SELECT * FROM shays
